@@ -1,13 +1,21 @@
 Hi, I'm Mahmoud Haddad (Fond Of Web Development)😎
 
-Responsible for Web applications development. Have a clear understanding of web development patterns and practices.
-I can work with other engineers and developers on multiple operational layers.
-Translate designs and wireframes into high-quality code. Design, build and maintain high performance, reusable, and reliable code.
+Responsible for Front-end development. Have a clear understanding of front-end development patterns and practices.
 
-Ensure the best possible performance, quality, and responsiveness of the application
+I can work with other engineers and developers on multiple operational layers.
+Translate designs and wireframes into high-quality code.
+Develop new user facing features.
+Write reusable code.
+Enhance application for maximum speed and scalability.
+Validate input before submitting to back end.
+Collaborate with team members and stakeholder.
+Bridge the gap between graphic design and technical implementation.
+Define how the application looks and how it works.
+Translate UI/UX design wireframes to actual code.
+Ensure the best possible performance, quality, and responsiveness of the code.
 Bottlenecks and bug fixes are identified and corrected. Assistance in maintaining the quality of code, and organization.
-I am a professional in such technologies like HTML5, CSS3, Javascript, bootstrap,  JQuery.
-I have a superficial knowledge of  PHP and SQL.
+I can work in such technologies like HTML5, CSS3, Javascript, bootstrap, JQuery.
+I have a superficial knowledge of PHP and SQL.
 
 The satisfaction of the customer is my main objective, and I tend to offer high quality and attention to particulars, which can meet critical timescales and work under pressure.
 
